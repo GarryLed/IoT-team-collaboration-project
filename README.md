@@ -63,6 +63,8 @@ Above list may also be modified as it is just there to give us a start.
 ### Proposed code design: 
 * Create initial code design using the potentiometer 
 
+[Initial code for heat sensor wiht led and lcd screen with warning message](https://wokwi.com/projects/391986545080816641)
+
 ### Hardware setup: 
 * Explain the hardware setup with images 
 ### API's 

@@ -38,7 +38,7 @@ https://github.com/GarryLed/IoT-team-collaboration-project
 ### Sketch: 
 add link here to sketch 
 
-### Proposed code desin: 
+### Proposed code design: 
 
 ### Hardware setup: 
 

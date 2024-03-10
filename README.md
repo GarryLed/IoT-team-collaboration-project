@@ -13,7 +13,7 @@ Heat sensor (working title)
 4. Tadhg Dowdall (S00250843@atu.ie)
 5. Samuel Kocych (S00255627@atu.ie)
 
-### Links to:  
+### Links:  
 #### Trello Page:
 https://trello.com/b/Qchyc20L/iot-project
 
@@ -27,11 +27,45 @@ https://github.com/GarryLed/IoT-team-collaboration-project
 [Home safety measures and the risk of unintentional injury among young children: a multicentre case–control study | CMAJ](https://www.cmaj.ca/content/175/8/883.short)
 
 [Stop cooking fires before they happen! : H46-2/05-403E-PDF - Government of Canada Publications - Canada.ca](https://publications.gc.ca/site/eng/9.689623/publication.html)
-### Outline of the problem to be solved - supported by your research [1 page + references (font size 12)] 
-### Summary of the Project solution  [2 pages] 
-### List of Project Requirements  [outline at least 6 requirements] 
-### Initial Design – to include sketches of proposed device, proposed code design, proposed hardware setup, description of any APIs or data processing planned
-### Implementation Plan to include equipment needed, parts list, APIs to be used, code samples [3 pages + screenshots/photos/diagrams] 
-### Testing approach – how did you plan your software and hardware testing as well as evidence of tests carried out
-### Security Analysis to prevent security holes [half page] 
-### Future improvements planned and potential next steps in developing the idea further [1 page]
+
+## Outline of the problem to be solved - supported by your research [1 page + references (font size 12)] 
+
+## Summary of the Project solution  [2 pages] 
+
+## List of Project Requirements  [outline at least 6 requirements] 
+
+## Initial Design – to include sketches of proposed device, proposed code design, proposed hardware setup, description of any APIs or data processing planned
+### Sketch: 
+add link here to sketch 
+
+### Proposed code desin: 
+
+### Hardware setup: 
+
+### API's 
+
+## Implementation Plan to include equipment needed, parts list, APIs to be used, code samples [3 pages + screenshots/photos/diagrams] 
+
+### Equipment and Parts list: 
+- Yun 
+- Groove kit 
+- Buzzer 
+- Led 
+- RGB 
+
+### Code samples: 
+add links to sample code here 
+
+### API's
+
+
+### Screenshots 
+add any screenshot images here 
+
+## Testing approach – how did you plan your software and hardware testing as well as evidence of tests carried out
+
+### Testing 
+
+## Security Analysis to prevent security holes [half page] 
+
+## Future improvements planned and potential next steps in developing the idea further [1 page]

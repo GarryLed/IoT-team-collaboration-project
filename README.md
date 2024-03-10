@@ -61,8 +61,13 @@ Above list may also be modified as it is just there to give us a start.
 * Create a sketch of the proposed hardware setup 
 
 ### Proposed code design: 
-* Below is an image of initial code design using the potentiometer, led, and a lcd screen that displays a warning message when tempertaure goes above a certain number:  
+Below is an image of initial code design using the potentiometer, led, and a lcd screen that displays a warning message when tempertaure goes above a certain number: 
+
+**When temperature is withing normal range:** 
 ![Alt text](image.png)
+
+**When temperature gets too hot**
+![Alt text](image-1.png)
 
 **Here is the link to the code for the above design:**
 

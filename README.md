@@ -29,21 +29,44 @@ https://github.com/GarryLed/IoT-team-collaboration-project
 [Stop cooking fires before they happen! : H46-2/05-403E-PDF - Government of Canada Publications - Canada.ca](https://publications.gc.ca/site/eng/9.689623/publication.html)
 
 ## Outline of the problem to be solved - supported by your research [1 page + references (font size 12)] 
+**Problem to be solved:** 
+- Safer kitchens 
+- Child safety 
+- Adult safety 
+- Pet safety
+- Fire prevention 
+- Injury prevention 
+- Carbon monoxide deaths 
+
+Above bullet points are only suggestions and may be changed or modified. This sections requires 1 page and references. 
 
 ## Summary of the Project solution  [2 pages] 
+Add a summary here (2 pages)
 
 ## List of Project Requirements  [outline at least 6 requirements] 
 
+1.	Notify the user via text message that they forgot to turn their stove/hob off 
+2.	Warn children/animals if they approach a hot stove top 
+3.	Turn off stove if it is on for a certain amount of time
+4.	Detects carbon monoxide 
+5.	Add more here
+6.	Add more here 
+
+Above list may also be modified as it is just there to give us a start. 
+
+
 ## Initial Design – to include sketches of proposed device, proposed code design, proposed hardware setup, description of any APIs or data processing planned
 ### Sketch: 
-add link here to sketch 
+* Create a sketch of project 
+* Create a sketch of the proposed hardware setup 
 
 ### Proposed code design: 
+* Create initial code design using the potentiometer 
 
 ### Hardware setup: 
-
+* Explain the hardware setup with images 
 ### API's 
-
+* Describe how API’s will be used and data will be handled 
 ## Implementation Plan to include equipment needed, parts list, APIs to be used, code samples [3 pages + screenshots/photos/diagrams] 
 
 ### Equipment and Parts list: 
@@ -53,6 +76,8 @@ add link here to sketch
 - Led 
 - RGB 
 
+add more parts here
+
 ### Code samples: 
 add links to sample code here 
 
@@ -60,12 +85,21 @@ add links to sample code here
 
 
 ### Screenshots 
-add any screenshot images here 
+Screenshots of progress 
+* Sketches 
+* Code 
+* Hardware 
+* Logical flow charts/diagrams 
+
 
 ## Testing approach – how did you plan your software and hardware testing as well as evidence of tests carried out
-
-### Testing 
+* Potentiometer for determining a specified temperature
+* Find user(s) for initial testing of APIs and notifications 
 
 ## Security Analysis to prevent security holes [half page] 
+* Review of fire and safety standards 
+* Add more info here 
+
 
 ## Future improvements planned and potential next steps in developing the idea further [1 page]
+add any potential imporvements here 

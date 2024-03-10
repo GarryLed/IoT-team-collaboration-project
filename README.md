@@ -45,11 +45,11 @@ Add a summary here (2 pages)
 
 ## List of Project Requirements  [outline at least 6 requirements] 
 
-1.	Notify the user via text message that they forgot to turn their stove/hob off 
-2.	Warn children/animals if they approach a hot stove top 
-3.	Turn off stove if it is on for a certain amount of time
-4.	Detects carbon monoxide 
-5.	Add more here
+1.	System will notify the user via text message if  a stove/hob has been on for an extended period of time 
+2.	System will have lcd screen and buzzer that warns children/elderly/animals if they approach a hot stove top 
+3.	System will turn off stove if it is on for a certain amount of time (time can be entered by the user)
+4.	System can detects carbon monoxide, which will set the led light, lcd warning message, and buzzer off
+5.	Add more here 
 6.	Add more here 
 
 Above list may also be modified as it is just there to give us a start. 
@@ -80,7 +80,7 @@ Below are two images of the initial code design using the potentiometer, led, an
 ## Implementation Plan to include equipment needed, parts list, APIs to be used, code samples [3 pages + screenshots/photos/diagrams] 
 
 ### Equipment and Parts list: 
-- Yun 
+- Arduino Yun 
 - Groove kit 
 - Buzzer 
 - Led 
@@ -92,7 +92,9 @@ add more parts here
 add links to sample code here 
 
 ### API's
-
+* Send emails to the user 
+* send text messages to the user 
+* Could notift the local fire brigade in an emergency 
 
 ### Screenshots 
 Screenshots of progress 

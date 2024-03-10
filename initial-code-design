@@ -1,0 +1,37 @@
+// This is the initial code for a heat sensor prototype that displays an led and a warning signal when the temperature 
+// goes above 300 degrees celsius 
+int LED=7;
+#include <LiquidCrystal_I2C.h> // includs the liquid crystal library for the led 
+
+LiquidCrystal_I2C lcd(0x27, 16, 2);
+
+// the setup routine runs once when you press reset:
+void setup() {
+  // initialize serial communication at 9600 bits per second:
+  Serial.begin(9600);
+  lcd.begin(16,2);
+  lcd.init();
+  lcd.backlight();
+
+}
+
+// the loop routine runs over and over again forever:
+void loop() {
+  // read the input on analog pin 0:
+  int knobValue = analogRead(A0);
+   // print out the value you read:
+  Serial.println(knobValue);
+
+  if (knobValue >= 300) // turn led on if current value is greater than or equal to 300 (300 == 300 degrees celsius)
+  {
+
+  lcd.print("Warning!"); // displays a warning message when temperature goes above 300 
+    digitalWrite(LED, HIGH);
+    delay(500);
+  } // knob value represents temperature at the center of a hob 
+  else 
+  {
+    digitalWrite(LED, LOW); // turn LED off if current value is less than 400 
+    delay(500);
+  }
+}

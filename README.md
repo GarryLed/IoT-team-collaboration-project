@@ -1,5 +1,5 @@
 # IoT-team-collaboration-project
-This is a group IoT project that uses Arduino software and hardware to solve a real-world problem. For our group project, we are building a hob/stovetop heat sensor safety device designed to alert users if a fire occurs or the stove is left on too long. The device can also warn children and animals from acidifying themselves. 
+This is a group IoT project that uses Arduino software and hardware to solve a real-world problem. For our group project, we are building a hob/stovetop heat sensor safety device designed to alert users if a fire occurs or the stove is left on too long. The device can also warn children and animals from accidently hurting themselves. 
 
 ## Team Report should be posted on your Github account and  include the following:
 
@@ -61,12 +61,12 @@ Above list may also be modified as it is just there to give us a start.
 * Create a sketch of the proposed hardware setup 
 
 ### Proposed code design: 
-Below is an image of initial code design using the potentiometer, led, and a lcd screen that displays a warning message when tempertaure goes above a certain number: 
+Below are two images of the initial code design using the potentiometer, led, and a lcd screen that displays a warning message when tempertaure goes above a certain number: 
 
 **When temperature is withing normal range:** 
 ![Alt text](image.png)
 
-**When temperature gets too hot**
+**When temperature gets too hot:**
 ![Alt text](image-1.png)
 
 **Here is the link to the code for the above design:**

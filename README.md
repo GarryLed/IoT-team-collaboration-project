@@ -61,17 +61,9 @@ Above list may also be modified as it is just there to give us a start.
 * Create a sketch of the proposed hardware setup 
 
 ### Proposed code design: 
-Below are two images of the initial code design using the potentiometer, led, and a lcd screen that displays a warning message when tempertaure goes above a certain number: 
+sketch out code design 
 
-**When temperature is withing normal range:** 
-![Alt text](image.png)
 
-**When temperature gets too hot:**
-![Alt text](image-1.png)
-
-**Here is the link to the code for the above design:**
-
-[Initial code for heat sensor wiht led and lcd screen with warning message](https://wokwi.com/projects/391986545080816641)
 
 ### Hardware setup: 
 * Explain the hardware setup with images 
@@ -89,7 +81,17 @@ Below are two images of the initial code design using the potentiometer, led, an
 add more parts here
 
 ### Code samples: 
-add links to sample code here 
+Below are two images of the initial code samples using the potentiometer, led, and a lcd screen that displays a warning message when tempertaure goes above a certain number: 
+
+**When temperature is within normal range:** 
+![Alt text](image.png)
+
+**When temperature gets too hot:**
+![Alt text](image-1.png)
+
+**Here is the link to the code for the above sample:**
+
+[Initial code for heat sensor wiht led and lcd screen with warning message](https://wokwi.com/projects/391986545080816641)
 
 ### API's
 * Send emails to the user 

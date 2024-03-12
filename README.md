@@ -89,10 +89,10 @@ add more parts here
 Below are two images of the initial code samples using the potentiometer, led, and a lcd screen that displays a warning message when tempertaure goes above a certain number: 
 
 **When temperature is within normal range:** 
-![Alt text](image.png)
+![Alt text](image-2.png)
 
-**When temperature gets too hot:**
-![Alt text](image-1.png)
+**When temperature goes above temp threshold:**
+![Alt text](image-3.png)
 
 **Here is the link to the code for the above sample:**
 

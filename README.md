@@ -103,12 +103,15 @@ Below are two images of the initial code samples using the potentiometer, led, a
 
 ### Arduino Prototype Images: 
 **Sensor is connected, but is in an off state**
+
 ![Alt text](image-6.png)
 
 **Sensor is detecting the current temperature is within the normal range and displays the following message: "Temperature OK: 28.40"**
+
 ![Alt text](image-5.png)
 
 **Sensor is detecting the current temperature is above the treshold and displays the following message: "Warning: Temp: 31.00"**
+
 ![Alt text](image-4.png)
 
 

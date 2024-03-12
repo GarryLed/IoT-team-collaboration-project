@@ -98,6 +98,20 @@ Below are two images of the initial code samples using the potentiometer, led, a
 
 [Initial code for heat sensor wiht led and lcd screen with warning message](https://wokwi.com/projects/391986545080816641)
 
+### Prototype Arduino code 
+[Code for initial prototype](https://github.com/GarryLed/IoT-team-collaboration-project/blob/main/arduino-initial-prototype-code)
+
+### Arduino Prototype Images: 
+**Sensor is connected, but is in an off state**
+![Alt text](image-6.png)
+
+**Sensor is detecting the current temperature is within the normal range and displays the following message: "Temperature OK: 28.40"**
+![Alt text](image-5.png)
+
+**Sensor is detecting the current temperature is above the treshold and displays the following message: "Warning: Temp: 31.00"**
+![Alt text](image-4.png)
+
+
 ### API's
 * Send emails to the user 
 * send text messages to the user 

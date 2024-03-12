@@ -67,6 +67,11 @@ sketch out code design
 
 ### Hardware setup: 
 * Explain the hardware setup with images 
+
+Add images here: 
+
+References: 
+[The Arduino temperature sensor](https://sensorkit.arduino.cc/sensorkit/module/lessons/lesson/08-the-temperature-sensor)
 ### API's 
 * Describe how API’s will be used and data will be handled 
 ## Implementation Plan to include equipment needed, parts list, APIs to be used, code samples [3 pages + screenshots/photos/diagrams] 

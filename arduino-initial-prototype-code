@@ -21,7 +21,7 @@ const int buzzerPin = 8; // Buzzer pin in D8 of Groove kit
 
 int buttonState = 0;
 bool monitoring = false; // initialize monitoring variable to false 
-float tempCelsius = 0; // change this value to a value of 31 or more to execute the HIGH temp block of code 
+float tempCelsius = 29; // change this value to a value of 31 or more to execute the HIGH temp block of code 
 float tempThreshold = 30.0; // Threshold temperature in Celsius
 
 void setup() {
@@ -41,17 +41,14 @@ void loop() {
     delay(500);
   }
 
-  if (monitoring == HIGH) { // if button is pressed 
-    Serial.print("Temperature: ");
-    Serial.print(tempCelsius);
-    Serial.println(" C");
-    
+  if (monitoring == HIGH) { // if button is toggled on 
+
     if (tempCelsius > tempThreshold) { // if current temp is greater than temp threshold then this block will execute 
       tone(buzzerPin, 1000); // Turn on the buzzer at 1000Hz
       lcd.setCursor(0, 0); // LCD cursor is positioned at the beginning of the first line 
-      lcd.print("WARNING: Temp"); // displays warning message to user 
+      lcd.print("WARNING: Temp:"); // displays warning message to user 
       lcd.setCursor(0, 1); // cursor is moved to second line 
-      lcd.print("High!");
+      lcd.print(tempCelsius);
     } else {
       noTone(buzzerPin); // Buzzer is turned off 
       lcd.setCursor(0, 0);

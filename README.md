@@ -40,8 +40,28 @@ https://github.com/GarryLed/IoT-team-collaboration-project
 
 Above bullet points are only suggestions and may be changed or modified. This sections requires 1 page and references. 
 
-## Summary of the Project solution  [2 pages] 
-Add a summary here (2 pages)
+## Summary of the Project solution  [2 pages]
+
+
+**Overview:**
+
+Our team is building a heat sensor device designed to improve kitchen safety. The device can attach to an oven stovetop and measure the stove's heat temperature. In the case of a stovetop overheating, the monitor will notify the user via text message or email in real-time. Additionally, the heat sensor can notify the user if a stove is left on for an extended period of time and also notify the user and/or give the user the ability to turn the stove off remotely.
+
+Talk about more features here: 
+
+**Problem we found:**
+
+Go deeper into the problem here
+
+**Our Solution:**
+
+Explain our solution steps
+
+Prototype: 
+Talk about prototype 
+
+**Conclusion:** 
+
 
 ## List of Project Requirements  [outline at least 6 requirements] 
 

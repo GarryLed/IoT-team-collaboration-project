@@ -38,6 +38,8 @@ https://github.com/GarryLed/IoT-team-collaboration-project
 - Injury prevention 
 - Carbon monoxide deaths 
 
+Added bullet point 
+
 Above bullet points are only suggestions and may be changed or modified. This sections requires 1 page and references. 
 
 ## Summary of the Project solution  [2 pages]
@@ -159,4 +161,4 @@ add more info here
 
 
 ## Future improvements planned and potential next steps in developing the idea further [1 page]
-add any potential imporvements here 
+It is possible to notify the local fire department in case someone forgets to turn off the stove and leaves the house. This notification should not be limited to the user only.

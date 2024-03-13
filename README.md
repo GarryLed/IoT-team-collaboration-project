@@ -151,6 +151,7 @@ Screenshots of progress
 ## Testing approach – how did you plan your software and hardware testing as well as evidence of tests carried out
 * Potentiometer for determining a specified temperature
 * Find user(s) for initial testing of APIs and notifications 
+add more info here 
 
 ## Security Analysis to prevent security holes [half page] 
 * Review of fire and safety standards 

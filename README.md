@@ -161,8 +161,10 @@ add more info here
 
 
 ## Future improvements planned and potential next steps in developing the idea further [1 page]
-* We can develop a system that notifies the local fire department in case the stove is left unattended for a long time. I think this notification shouldn’t be limited to the user only.
 
+### Automated Emergency Notifications
+Develop a system that not only notifies the user but also alerts the local fire department or emergency services in case the stove is left unattended for an extended period.
+This notification system ensures a swift response to potential hazards, even if the user is unable to react to alerts themselves, significantly reducing the risk of accidents.
 
-* We can make the system more user-friendly by creating an interface that enables users to configure their emergency notification settings.
+We can make the system more user-friendly by creating an interface that enables users to configure their emergency notification settings.
 

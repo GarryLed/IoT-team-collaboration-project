@@ -158,4 +158,4 @@ Screenshots of progress
 
 
 ## Future improvements planned and potential next steps in developing the idea further [1 page]
-I'll work on this secition
+It is possible to notify the local fire department in case someone forgets to turn off the stove and leaves the house. This notification should not be limited to the user only.

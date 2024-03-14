@@ -157,7 +157,7 @@ add more info here
 
 ## Security Analysis to prevent security holes [half page] 
 * Review of fire and safety standards 
-* Add more info here 
+* 
 
 
 ## Future improvements planned and potential next steps in developing the idea further [1 page]
@@ -175,4 +175,5 @@ Include functions for setting up emergency contacts and defining escalation prot
 Integrating our kitchen security device with existing smart home ecosystems such as Google Home, Amazon Alexa and Apple HomeKit can significantly increase user convenience and comfort, so user can get better experience from using. By leveraging these platforms, users can seamlessly control and monitor stove usage using voice commands, adding another layer of accessibility and ease of use to the system. 
 
 ### Expansion of Sensor Capabilities
+Expanding our sensoring capabilities could help reduce the risk of sending false alarms. Sensors which could be implemented with this project include, carbon monoxide sensor, air quality sensor and CO2 sensors. These sensors could provide valuable data to indicate the problem with more accuracy. This comprehensive approach of using multiple sensors could aid in fire prevention, ensuring in a safer environment
 

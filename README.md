@@ -158,4 +158,4 @@ Screenshots of progress
 
 
 ## Future improvements planned and potential next steps in developing the idea further [1 page]
-add any potential imporvements here 
+I'll work on this secition

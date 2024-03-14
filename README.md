@@ -38,6 +38,8 @@ https://github.com/GarryLed/IoT-team-collaboration-project
 - Injury prevention 
 - Carbon monoxide deaths 
 
+Added bullet point 
+
 Above bullet points are only suggestions and may be changed or modified. This sections requires 1 page and references. 
 
 ## Summary of the Project solution  [2 pages]

@@ -171,9 +171,8 @@ Create a more intuitive and user-friendly interface that allows users to seamles
 Provide customizable options for selecting recipients of emergency alerts, including family members, neighbors, or caretakers, in addition to the user himself.
 Include functions for setting up emergency contacts and defining escalation protocols for different types of situations, ensuring comprehensive coverage in emergencies.
 
-
 ### Integration with Smart Home Ecosystems
-
+Integrating our kitchen security device with existing smart home ecosystems such as Google Home, Amazon Alexa and Apple HomeKit can significantly increase user convenience and comfort, so user can get better experience from using. By leveraging these platforms, users can seamlessly control and monitor stove usage using voice commands, adding another layer of accessibility and ease of use to the system. 
 
 ### Expansion of Sensor Capabilities
 

@@ -161,9 +161,8 @@ add more info here
 
 
 ## Future improvements planned and potential next steps in developing the idea further [1 page]
-* Integration with Emergency Services
-We can develop a system that notifies the local fire department in case the stove is left unattended for a long time. I think this notification shouldn’t be limited to the user only.
+* We can develop a system that notifies the local fire department in case the stove is left unattended for a long time. I think this notification shouldn’t be limited to the user only.
 
-* User Friendly Notification
-We can make the system more user-friendly by creating an interface that enables users to configure their emergency notification settings.
+
+* We can make the system more user-friendly by creating an interface that enables users to configure their emergency notification settings.
 

@@ -1,4 +1,4 @@
-# IoT-team-collaboration-project
+         # IoT-team-collaboration-project
 This is a group IoT project that uses Arduino software and hardware to solve a real-world problem. For our group project, we are building a hob/stovetop heat sensor safety device designed to alert users if a fire occurs or the stove is left on too long. The device can also warn children and animals from accidentally hurting themselves. 
 
 ## Team Report should be posted on your Github account and  include the following:
@@ -36,7 +36,7 @@ https://github.com/GarryLed/IoT-team-collaboration-project
 - Pet safety
 - Fire prevention 
 - Injury prevention 
--   Carbon Monoxide is a poisonous gas which is sometimes reffered to as "The Silent Killer". When researching about Kitchen safety devices we thought it would be a good idea to have an all in one device which could detect temperature, carbon monoxide and the air quality. Since Carbon Monoxide is a poisonous, flammable gas that is colorless, odorless and tasteless we thought that receiving a notification which will help warn people of the gas would be perfect to include in a kitchen safety device.
+- Carbon Monoxide is a poisonous gas which is sometimes reffered to as "The Silent Killer". When researching about Kitchen safety devices we thought it would be a good idea to have an all in one device which could detect temperature, carbon monoxide and the air quality. Since Carbon Monoxide is a poisonous, flammable gas that is colorless, odorless and tasteless we thought that receiving a notification which will help warn people of the gas would be perfect to include in a kitchen safety device.
 
 
 
@@ -181,4 +181,10 @@ Integrating our kitchen security device with existing smart home ecosystems such
 
 ### Expansion of Sensor Capabilities
 Expanding our sensoring capabilities could help reduce the risk of sending false alarms. Sensors which could be implemented with this project include, carbon monoxide sensor, air quality sensor and CO2 sensors. These sensors could provide valuable data to indicate the problem with more accuracy. This comprehensive approach of using multiple sensors could aid in fire prevention, ensuring in a safer environment
+
+### Default timer
+We can work on setting a default timer as when been left for a particular period of time it should automatically notify the user if no respond within another period of time and it very hot it should then proceed to contact emmergency or emergency recipent if reachable.
+
+
+
 

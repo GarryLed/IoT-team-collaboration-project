@@ -36,8 +36,7 @@ https://github.com/GarryLed/IoT-team-collaboration-project
 - Pet safety
 - Fire prevention 
 - Injury prevention 
--   Carbon monoxide 
-    Carbon Monoxide is a poisonous gas which is sometimes reffered to as "The Silent Killer". When researching about Kitchen safety devices we thought it would be a good idea to have an all in one device which could detect temperature, carbon monoxide and the air quality. Since Carbon Monoxide is a poisonous, flammable gas that is colorless, odorless and tasteless we thought that receiving a notification which will help warn people of the gas would be perfect to include in a kitchen safety device.
+-   Carbon Monoxide is a poisonous gas which is sometimes reffered to as "The Silent Killer". When researching about Kitchen safety devices we thought it would be a good idea to have an all in one device which could detect temperature, carbon monoxide and the air quality. Since Carbon Monoxide is a poisonous, flammable gas that is colorless, odorless and tasteless we thought that receiving a notification which will help warn people of the gas would be perfect to include in a kitchen safety device.
 
 
 

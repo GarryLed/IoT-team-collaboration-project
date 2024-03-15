@@ -154,10 +154,14 @@ Screenshots of progress
 * Potentiometer for determining a specified temperature
 * Find user(s) for initial testing of APIs and notifications 
 add more info here 
+Prototype Test :
+When testing our original prototype we didn't have access to a temperature sensor. For testing purposes we decided to put the temperature value into our code storing it as a variable. This meant that when we were testing we were able to change the temperature threshold and current temperature. We inputted several different test cases for different temperature values to ensure that the code functioned appropriately. Examples of test cases included be -1 degree, 20 degrees and so forth.
+
 
 ## Security Analysis to prevent security holes [half page] 
 * Review of fire and safety standards 
-* 
+* Ensuring that all electrical components used in your device comply with relevant safety standards.
+  Sensors used for detecting heat, air quality, and carbon monoxide should be calibrated and tested to ensure accurate readings.
 
 
 ## Future improvements planned and potential next steps in developing the idea further [1 page]

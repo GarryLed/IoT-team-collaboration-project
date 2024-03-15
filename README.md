@@ -61,7 +61,7 @@ Go deeper into the problem here
 Explain our solution steps
 
 Prototype: 
-Talk about prototype 
+The prototype we came up with was an arduino with a button to enable disable and reset the device and an LED screen and buzzer for the output to what it is doing e.g wether its working or the temparature is too high. we programmed it so when we put in a temparature value above a certain threshold it would turn on a buzzer to alarm the user of the temparature being too high.
 
 **Conclusion:** 
 add a conclusion here 

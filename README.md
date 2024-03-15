@@ -36,9 +36,11 @@ https://github.com/GarryLed/IoT-team-collaboration-project
 - Pet safety
 - Fire prevention 
 - Injury prevention 
-- Carbon monoxide deaths 
+-   Carbon monoxide 
+    Carbon Monoxide is a poisonous gas which is sometimes reffered to as "The Silent Killer". When researching about Kitchen safety devices we thought it would be a good idea to have an all in one device which could detect temperature, carbon monoxide and the air quality. Since Carbon Monoxide is a poisonous, flammable gas that is colorless, odorless and tasteless we thought that receiving a notification which will help warn people of the gas would be perfect to include in a kitchen safety device.
 
-Added bullet point 
+
+
 
 Above bullet points are only suggestions and may be changed or modified. This sections requires 1 page and references. 
 
@@ -71,8 +73,8 @@ add a conclusion here
 2.	System will have lcd screen and buzzer that warns children/elderly/animals if they approach a hot stove top 
 3.	System will turn off stove if it is on for a certain amount of time (time can be entered by the user)
 4.	System can detects carbon monoxide, which will set the led light, lcd warning message, and buzzer off
-5.	Add more here 
-6.	Add more here 
+5.	Designing a user-friendly interface for receiving alerts 
+6.	Conduct adequate testing on the project to ensure there is no false alerts.
 
 Above list may also be modified as it is just there to give us a start. 
 
@@ -161,7 +163,7 @@ When testing our original prototype we didn't have access to a temperature senso
 ## Security Analysis to prevent security holes [half page] 
 * Review of fire and safety standards 
 * Ensuring that all electrical components used in your device comply with relevant safety standards.
-  Sensors used for detecting heat, air quality, and carbon monoxide should be calibrated and tested to ensure accurate readings.
+* Sensors used for detecting heat, air quality, and carbon monoxide should be calibrated and tested to ensure accurate readings.
 
 
 ## Future improvements planned and potential next steps in developing the idea further [1 page]

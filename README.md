@@ -140,8 +140,9 @@ Below are two images of the initial code samples using the potentiometer, led, a
 
 ### API's
 * Send emails to the user 
-* send text messages to the user 
-* Could notift the local fire brigade in an emergency 
+* Send text messages to the user 
+* Notify the local fire brigade in an emergency
+* Monitor the real time temparature of the stove carbon monoxide levels, air quality and any other relevent information.
 
 ### Screenshots 
 Screenshots of progress 

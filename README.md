@@ -38,11 +38,6 @@ https://github.com/GarryLed/IoT-team-collaboration-project
 - Injury prevention 
 - Carbon Monoxide is a poisonous gas which is sometimes reffered to as "The Silent Killer". When researching about Kitchen safety devices we thought it would be a good idea to have an all in one device which could detect temperature, carbon monoxide and the air quality. Since Carbon Monoxide is a poisonous, flammable gas that is colorless, odorless and tasteless we thought that receiving a notification which will help warn people of the gas would be perfect to include in a kitchen safety device.
 
-
-
-
-Above bullet points are only suggestions and may be changed or modified. This sections requires 1 page and references. 
-
 ## Summary of the Project solution  [2 pages]
 
 
@@ -50,21 +45,9 @@ Above bullet points are only suggestions and may be changed or modified. This se
 
 Our team is building a heat sensor device designed to improve kitchen safety. The device can attach to an oven stovetop and measure the stove's heat temperature. In the case of a stovetop overheating, the monitor will notify the user via text message or email in real-time. Additionally, the heat sensor can notify the user if a stove is left on for an extended period of time and also notify the user and/or give the user the ability to turn the stove off remotely.
 
-Talk about more features here: 
-
-**Problem we found:**
-
-Go deeper into the problem here
-
-**Our Solution:**
-
-Explain our solution steps
-
 Prototype: 
 The prototype we came up with was an arduino with a button to enable disable and reset the device and an LED screen and buzzer for the output to what it is doing e.g wether its working or the temparature is too high. we programmed it so when we put in a temparature value above a certain threshold it would turn on a buzzer to alarm the user of the temparature being too high.
 
-**Conclusion:** 
-add a conclusion here 
 
 ## List of Project Requirements  [outline at least 6 requirements] 
 
@@ -106,7 +89,7 @@ References:
 - Led 
 - RGB 
 
-add more parts here
+
 
 ### Code samples: 
 Below are two images of the initial code samples using the potentiometer, led, and a lcd screen that displays a warning message when tempertaure goes above a certain number: 
@@ -143,14 +126,6 @@ Below are two images of the initial code samples using the potentiometer, led, a
 * Send text messages to the user 
 * Notify the local fire brigade in an emergency
 * Monitor the real time temparature of the stove carbon monoxide levels, air quality and any other relevent information.
-
-### Screenshots 
-Screenshots of progress 
-* Sketches 
-* Code 
-* Hardware 
-* Logical flow charts/diagrams 
-
 
 ## Testing approach – how did you plan your software and hardware testing as well as evidence of tests carried out
 * Potentiometer for determining a specified temperature

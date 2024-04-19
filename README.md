@@ -161,6 +161,27 @@ Expanding our sensoring capabilities could help reduce the risk of sending false
 ### Default timer
 We can work on setting a default timer as when been left for a particular period of time it should automatically notify the user if no respond within another period of time and it very hot it should then proceed to contact emmergency or emergency recipent if reachable.
 
+****
+# Project 2 
 
+## Final Project Report Update
+Prepare an update of your original report (Turn on Track Changes) Internet & Machine Learning Functionality:
+This submission should feature a further refinement or inclusion of some Internet functionality e.g. data logged in a spreadsheet, email notifications, a Blynk app, or Web User Interface etc. and should include: sdcsdf
 
+a)	Description of Internet functionality planned, including details of APIs used (e.g. PushingBox, Blynk, REST Web Service based UI)
 
+b)	Secondary research, on similar internet projects you have found online, to support your implementation and validate the idea
+
+c)	Ideas for the potential future application of Machine Learning to enhance your project functionality – specify a Machine Learning algorithm and a description of the data you would use
+
+d)	Video of your final working prototype
+
+## Academic Poster 
+add academic poster in this section 
+****
+## Critical Analysis of Application
+
+add critical analysis to this section 
+****
+## Ethics Risk Analysis of the future Application
+add data here  

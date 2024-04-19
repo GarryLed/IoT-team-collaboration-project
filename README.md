@@ -170,18 +170,48 @@ This submission should feature a further refinement or inclusion of some Interne
 
 a)	Description of Internet functionality planned, including details of APIs used (e.g. PushingBox, Blynk, REST Web Service based UI)
 
+**Garry will take section (a) above** 
+
+ - [x] incomplete
+ - [ ] complete 
+
 b)	Secondary research, on similar internet projects you have found online, to support your implementation and validate the idea
 
+
+**Need someone to take (b)**
+ - [x] incomplete
+ - [ ] complete 
+ 
 c)	Ideas for the potential future application of Machine Learning to enhance your project functionality – specify a Machine Learning algorithm and a description of the data you would use
+
+**Need someone to take (c)**
+
+ - [x] incomplete
+ - [ ] complete 
 
 d)	Video of your final working prototype
 
+**Emmanual will shoot the video for this** 
+
+ - [x] incomplete
+ - [ ] complete 
 ## Academic Poster 
 add academic poster in this section 
-****
+
+**Tadhg will start the poster (team can help during our team meeting)**
+
+ - [x] incomplete
+ - [ ] complete 
 ## Critical Analysis of Application
 
-add critical analysis to this section 
+**Garry will take this section** 
+
+ - [x] incomplete
+ - [ ] complete 
+
 ****
 ## Ethics Risk Analysis of the future Application
-add data here  
+
+**Ernestas will take this section**
+ - [x] incomplete
+ - [ ] complete 

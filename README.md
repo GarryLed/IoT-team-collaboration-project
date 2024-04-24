@@ -265,7 +265,11 @@ The critical analysis of our application is broken into the following key areas:
 
 ### 6. Imagining What-if Scenarios 
 
+- **Application in Various Settings:** The devices capability could expand beyond household kitchens to include commercial kitchens, mobile homes, and investment properties. This would provide a larger market for the device to be used in different settings. 
+
 ### 7. Taking Informed Action 
+
+- **Improvements in System Design:** In the future the device could include a feature that could reduce cooking emissions and incorporate voice alerts, controlled by AI, could improve the utility of the device. Additionally, incorporating a Machine Learning algorithm could help improve cooking energy efficiency over time. 
 
 **Garry will take this section** 
 

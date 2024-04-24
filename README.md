@@ -255,8 +255,9 @@ The critical analysis of our application is broken into the following key areas:
 
 - **Gathering Data:** To validate the assumption that the device can track cooking patterns and alert users in the event of a stove being left on or a kitchen fire, we will connect the devices via API’s like Blynk, Google Sheets and PushingBox for collecting data, and this data can be used with machine learning algorithms to find patterns and relationships. 
 
-
 ### 4. Reflecting on Assumptions 
+
+- **Improved Alert System:** Upon reflecting on initial assumptions, new insights arose including multiple notification methods, such as sirens for non-hearing impaired and vibrating phone notifications for the hearing impaired. This updated approach aims to ensure all users can receive alerts.  
 
 ### 5. Considering Different Perspectives 
 

@@ -211,7 +211,7 @@ c)	Ideas for the potential future application of Machine Learning to enhance you
 
 ### potential future application of Machine Learning
 
-Data collected and analysed via the heat sensor app could be used with machine learning to detect patterns in the data and use that data to help prevent of minimize kitchen fires. The relationship discovery machine learning model would be a suitable algorithm for this use case because it is designed to identify patterns in data and then determine the relationships between various data points.  
+Data collected and analysed via the heat sensor app could be used with machine learning to detect patterns in the data and use that data to help prevent or minimize kitchen fires. The relationship discovery machine learning model would be a suitable algorithm for this use case because it is designed to identify patterns in data and then determine the relationships between various data points.  
 
 **Garry will take section (c) above** 
 

@@ -209,7 +209,7 @@ b)	Secondary research, on similar internet projects you have found online, to su
  
 c)	Ideas for the potential future application of Machine Learning to enhance your project functionality – specify a Machine Learning algorithm and a description of the data you would use
 
-**Need someone to take (c)**
+**Garry will take section (c) above** 
 
  - [x] incomplete
  - [ ] complete 

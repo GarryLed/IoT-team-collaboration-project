@@ -236,9 +236,18 @@ add academic poster in this section
 The critical analysis of our application is broken into the following key areas: system effects on individuals and society, identifying assumptions , validating  assumptions , reflecting on new assumptions, considering different perspectives, "what-if" scenarios, and taking informed action. 
 
 ### Effects on Individuals and Society: 
-**On Individuals:** The device is designed to create a safer kitchen in the home by preventing serious injury or death from kitchen fires.
 
-**On Society:** By reducing the number of kitchen fires, the device can lower the number of potential home insurance claims related to fire damage. This reduction in claims could lower the price of home insurance for all, which would benefit the economy.  
+- **On Individuals:** The device is designed to create a safer kitchen in the home by preventing serious injury or death from kitchen fires.
+
+- **On Society:** By reducing the number of kitchen fires, the device can lower the number of potential home insurance claims related to fire damage. This reduction in claims could lower the price of home insurance for all, which would benefit the economy.  
+
+### Identifying Assumptions:
+
+- **Assumptions about the users:** Older people will understand how to use the device and application. Also, that all users can hear alerts.
+
+- **Assumptions about the effectiveness of the Heat Sensor device:** It is assumed that the actual device will prevent injuries or potential deaths by alerting users in that a stove top has been left on or a fire has broken out. 
+
+- **Assumptions about economic benefits:** The device will reduce the number of insurance claims due to lower household fires. 
 
 
 **Garry will take this section** 

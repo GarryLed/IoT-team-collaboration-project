@@ -261,6 +261,8 @@ The critical analysis of our application is broken into the following key areas:
 
 ### 5. Considering Different Perspectives 
 
+- **Diverse User Demographics:** The heat sensor device aims to be beneficial for multiple demographics by providing peace of mind to households with small children or pets. For older adults living alone, the device adds an extra layer of protection against the possibility of forgetting to turn a stove off. 
+
 ### 6. Imagining What-if Scenarios 
 
 ### 7. Taking Informed Action 

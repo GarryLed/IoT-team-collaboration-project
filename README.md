@@ -209,6 +209,8 @@ b)	Secondary research, on similar internet projects you have found online, to su
  
 c)	Ideas for the potential future application of Machine Learning to enhance your project functionality – specify a Machine Learning algorithm and a description of the data you would use
 
+Data collected and analysed via the heat sensor app could be used with machine learning to detect patterns in the data and use that data to help prevent of minimize kitchen fires. The relationship discovery machine learning model would be a suitable algorithm for this use case because it is designed to identify patterns in data and then determine the relationships between various data points.  
+
 **Garry will take section (c) above** 
 
  - [x] incomplete

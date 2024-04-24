@@ -233,6 +233,14 @@ add academic poster in this section
  - [ ] complete 
 ## Critical Analysis of Application
 
+The critical analysis of our application is broken into the following key areas: system effects on individuals and society, identifying assumptions , validating  assumptions , reflecting on new assumptions, considering different perspectives, "what-if" scenarios, and taking informed action. 
+
+### Effects on Individuals and Society: 
+**On Individuals:** The device is designed to create a safer kitchen in the home by preventing serious injury or death from kitchen fires.
+
+**On Society:** By reducing the number of kitchen fires, the device can lower the number of potential home insurance claims related to fire damage. This reduction in claims could lower the price of home insurance for all, which would benefit the economy.  
+
+
 **Garry will take this section** 
 
  - [x] incomplete

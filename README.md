@@ -170,10 +170,35 @@ This submission should feature a further refinement or inclusion of some Interne
 
 a)	Description of Internet functionality planned, including details of APIs used (e.g. PushingBox, Blynk, REST Web Service based UI)
 
+## Internet Functionality
+### Data logging:
+ We used an Arduino Scrip, Google Sheets API and PushingBox API  to send and update data to Google Sheets from the Heat sensor device. This data can be used for data analysis and Machine Learning. 
+ 
+![Alt text](image-7.png)
+
+
+![Alt text](image-8.png)
+ 
+
+### Email notifications.
+
+We will use Blynk for email notifications and alerts to the end user. Blynk has the capability to send and receive emails from the application by setting up certain conditions. 
+We can create conditions in the Blynk app based on the heat sensor ‘state’, which will notify the user when a pre-defined condition is triggered based on the heat sensors data. 
+
+For example: 
+Uses will be able to choose a time limit for a stove top to be on in the ‘safe’ condition, and if it exceeds this threshold, the user will be notified via email. 
+
+### Integration with Blynk app
+Blynk software allows us to connect our hardware device to an integrated software system that allows us to build a mobile app so the user can be notified via the application if stoves or hobs have been left on for an extended period.
+Our initial connection from a Yun device to Blynk:  
+ 
+![Alt text](image-9.png)
+
+
 **Garry will take section (a) above** 
 
- - [x] incomplete
- - [ ] complete 
+ - [ ] incomplete
+ - [x] complete 
 
 b)	Secondary research, on similar internet projects you have found online, to support your implementation and validate the idea
 

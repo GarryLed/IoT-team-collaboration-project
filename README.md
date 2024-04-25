@@ -280,5 +280,5 @@ The critical analysis of our application is broken into the following key areas:
 ## Ethics Risk Analysis of the future Application
 
 **Ernestas will take this section**
- - [x] incomplete
- - [ ] complete 
+ - [x] complete 
+ ![Alt text](image-10.png)

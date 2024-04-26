@@ -229,8 +229,7 @@ add academic poster in this section
 
 **Tadhg will start the poster (team can help during our team meeting)**
 
-Screenshot 2024-04-26 at 19.57.22.png
-![Alt text](Screenshot 2024-04-26 at 19.57.22.png)
+![Alt text](image-11.png)
 
  - [x] incomplete
  - [ ] complete 

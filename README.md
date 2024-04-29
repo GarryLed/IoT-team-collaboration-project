@@ -203,6 +203,11 @@ Our initial connection from a Yun device to Blynk:
 b)	Secondary research, on similar internet projects you have found online, to support your implementation and validate the idea
 
 
+Samsung SmartThings
+
+Samsung SmartThings is a device which allows users to control many different smart devices within their household through an app on your phone. Its emphasis on safety and security provide valuable inspiration for the development of our heat sensor project. Similarly to SmartThings our project hopes to provide users with real-time monitoring and control of the stove.
+
+
 **Need someone to take (b)**
  - [x] incomplete
  - [ ] complete 
@@ -231,8 +236,8 @@ add academic poster in this section
 
 ![Alt text](image-11.png)
 
- - [x] incomplete
- - [ ] complete 
+ - [ ] incomplete
+ - [x] complete 
 ## Critical Analysis of Application
 
 The critical analysis of our application is broken into the following key areas: system effects on individuals and society, identifying assumptions , validating  assumptions , reflecting on new assumptions, considering different perspectives, "what-if" scenarios, and taking informed action. 

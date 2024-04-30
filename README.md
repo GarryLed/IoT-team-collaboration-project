@@ -194,12 +194,6 @@ Our initial connection from a Yun device to Blynk:
  
 ![Alt text](image-9.png)
 
-
-**Garry will take section (a) above** 
-
- - [ ] incomplete
- - [x] complete 
-
 b)	Secondary research, on similar internet projects you have found online, to support your implementation and validate the idea
 
 
@@ -207,37 +201,20 @@ Samsung SmartThings
 
 Samsung SmartThings is a device which allows users to control many different smart devices within their household through an app on your phone. Its emphasis on safety and security provide valuable inspiration for the development of our heat sensor project. Similarly to SmartThings our project hopes to provide users with real-time monitoring and control of the stove.
 
-
-**Need someone to take (b)**
- - [x] incomplete
- - [ ] complete 
- 
 c)	Ideas for the potential future application of Machine Learning to enhance your project functionality – specify a Machine Learning algorithm and a description of the data you would use
 
 ### Potential future application of Machine Learning
 
 Data collected and analysed via the heat sensor app could be used with machine learning to detect patterns in the data and use that data to help prevent or minimize kitchen fires. The relationship discovery machine learning model would be a suitable algorithm for this use case because it is designed to identify patterns in data and then determine the relationships between various data points.  
 
-**Garry will take section (c) above** 
-
- - [x] incomplete
- - [ ] complete 
-
 d)	Video of your final working prototype
 
-**Emmanual will shoot the video for this** 
-
- - [x] incomplete
- - [ ] complete 
+ 
 ## Academic Poster 
-add academic poster in this section 
-
-**Tadhg will start the poster (team can help during our team meeting)**
 
 ![Alt text](image-11.png)
 
- - [ ] incomplete
- - [x] complete 
+
 ## Critical Analysis of Application
 
 The critical analysis of our application is broken into the following key areas: system effects on individuals and society, identifying assumptions , validating  assumptions , reflecting on new assumptions, considering different perspectives, "what-if" scenarios, and taking informed action. 
@@ -278,14 +255,8 @@ The critical analysis of our application is broken into the following key areas:
 
 - **Improvements in System Design:** In the future the device could include a feature that could reduce cooking emissions and incorporate voice alerts, controlled by AI, could improve the utility of the device. Additionally, incorporating a Machine Learning algorithm could help improve cooking energy efficiency over time. 
 
-**Garry will take this section** 
-
- - [x] incomplete
- - [ ] complete 
-
 ****
 ## Ethics Risk Analysis of the future Application
 
-**Ernestas will take this section**
- - [x] complete 
+
  ![Alt text](image-10.png)

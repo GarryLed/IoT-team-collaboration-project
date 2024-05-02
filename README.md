@@ -258,5 +258,7 @@ The critical analysis of our application is broken into the following key areas:
 ****
 ## Ethics Risk Analysis of the future Application
 
+### 8. Project video
+https://youtu.be/MzzFQriciZI?si=oVOk5h3lFENihVse
 
  ![Alt text](image-10.png)

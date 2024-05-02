@@ -255,10 +255,12 @@ The critical analysis of our application is broken into the following key areas:
 
 - **Improvements in System Design:** In the future the device could include a feature that could reduce cooking emissions and incorporate voice alerts, controlled by AI, could improve the utility of the device. Additionally, incorporating a Machine Learning algorithm could help improve cooking energy efficiency over time. 
 
+### 8. Project video
+https://youtu.be/MzzFQriciZI?si=oVOk5h3lFENihVse
+
 ****
 ## Ethics Risk Analysis of the future Application
 
-### 8. Project video
-https://youtu.be/MzzFQriciZI?si=oVOk5h3lFENihVse
+
 
  ![Alt text](image-10.png)
